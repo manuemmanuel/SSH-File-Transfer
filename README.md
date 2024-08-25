@@ -1,6 +1,5 @@
 # Data Sharing Between Two Ubuntu Computers on the Same Switch
 
-## 1. Using SSH with SCP (Secure Copy)
 ### Install OpenSSH Server
 ```bash
 sudo apt update
